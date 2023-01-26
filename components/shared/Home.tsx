@@ -17,6 +17,8 @@ const Home = () => {
     <Wrapper>
       <Container span={16} offset={4}>
         <Title>
+          Hello world!
+          <br />
           Learn the Web 3 stack{' '}
           <Brand>
             by{' '}
